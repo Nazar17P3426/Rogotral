@@ -1,1 +1,2 @@
-GDI MALWARE
+# Rogotral
+C++ GDI trojan by LowoTech
